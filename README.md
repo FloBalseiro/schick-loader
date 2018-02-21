@@ -1,1 +1,0 @@
-schick-loader.github.io
